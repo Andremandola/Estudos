@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.bg-primary{
+    background: #006491 !important;
+}
+
+.text-primary{
+    color: #006491 !important;
+}
+
+.btn-secondary{
+    background-color: #e31837;
+    border-color: #e31837;
+}
+
+.bg-footer{
+    background-color: #dbdbdb;
+}
+.text-gray{
+    color:#4a4a4a;
+}
+
+.btn-secondary:hover{
+    background-color: #b11129;
+    border-color: #b11129;
+}
